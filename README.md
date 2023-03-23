@@ -889,6 +889,7 @@ along with Ronin.  If not, see <https://www.gnu.org/licenses/>.
 [wordlist]: https://github.com/postmodern/wordlist.rb#readme
 
 [ronin-support]: https://github.com/ronin-rb/ronin-support#readme
+[ronin-dns-proxy]: https://github.com/ronin-rb/ronin-dns-proxy#readme
 [ronin-repos]: https://github.com/ronin-rb/ronin-repos#readme
 [ronin-repos-synopsis]: https://github.com/ronin-rb/ronin-repos#synopsis
 [ronin-core]: https://github.com/ronin-rb/ronin-core#readme
