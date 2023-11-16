@@ -202,6 +202,12 @@ Generate a [ronin-exploits] script:
 $ ronin new exploit my_exploit.rb
 ```
 
+Generate a [ronin-payloads] script:
+
+```shell
+$ ronin new payload my_payload.rb
+```
+
 ### Binary
 
 Hexdumps data in a variety of formats:
